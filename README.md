@@ -23,4 +23,4 @@
 **(network/api.kt)에서 api 키를 입력하여야함.** <br />
 ================================================<br />
 
-<br /><img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/b9fb645f-7aa6-4611-8f1b-221692fd3f5d" /><br />
+<br /><img width="350" height="868" alt="image" src="https://github.com/user-attachments/assets/5c0a5df9-c41c-4fb7-80b1-9771e2f19073" /><br />
