@@ -1,7 +1,7 @@
 # api_chat
 ================================================<br />
 사용된 기술 스택<br />
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/36e29f10-aa4c-4fa8-a166-530e3dec1b73" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/36e29f10-aa4c-4fa8-a166-530e3dec1b73" /><br />
 ================================================<br />
 DeepL API 연동 모듈 개발<br />
 데이터 모델: DeepL 응답을 담기 위한 DeepLTranslateResponse 및 DeepLTranslation 데이터 클래스 정의.<br />
