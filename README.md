@@ -1,6 +1,6 @@
 # api_chat
 ================================================<br />
-사용된 기술 스택<br 
+사용된 기술 스택<br />
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/36e29f10-aa4c-4fa8-a166-530e3dec1b73" />
 ================================================<br />
 DeepL API 연동 모듈 개발<br />
