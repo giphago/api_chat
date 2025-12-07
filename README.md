@@ -20,4 +20,7 @@
 **MainActivity 연결**: RecyclerView와 MessageAdapter를 초기화하고, 버튼 클릭 리스너를 설정.
 **비동기 번역**: sendMessage() 함수 내에서 사용자 메시지를 리스트에 추가하고, translateText() 함수를 코루틴(Dispatchers.IO)으로 호출하여 API 통신.
 ================================================<br />
-**(network/api.kt)에서 api 키를 입력하여야함.**
+**(network/api.kt)에서 api 키를 입력하여야함.** <br />
+================================================<br />
+
+<br /><img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/b9fb645f-7aa6-4611-8f1b-221692fd3f5d" /><br />
